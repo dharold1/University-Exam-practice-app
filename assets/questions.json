@@ -1,0 +1,49 @@
+[
+  {
+    "1": "What is a dog",
+    "2": "Who is a dog",
+    "3": "What is your school's name",
+    "4": "Tell me something about yourself",
+    "5": "What is love's surnname"
+  },
+  {
+    "1": {
+      "a": "an animal",
+      "b": "a human",
+      "c": "a cat",
+      "d": "a thing"
+    },
+    "2": {
+      "a": "dan",
+      "b": "bingo",
+      "c": "sammy",
+      "d": "crate"
+    },
+
+    "3": {
+      "a": "uniben",
+      "b": "uniabuja",
+      "c": "abu",
+      "d": "LMU"
+    },
+    "4": {
+    "a": "i am bad",
+    "b": "i am good",
+    "c": "i am selzy",
+    "d": "i am crazy"
+  },
+    "5": {
+      "a": "Kamaru",
+      "b": "Taint",
+      "c": "Harry",
+      "d": "Glory"
+    }
+  },
+  {
+    "1": "an animal",
+    "2": "bingo",
+    "3": "uniabuja",
+    "4": "i am good",
+    "5": "glory"
+  }
+]
